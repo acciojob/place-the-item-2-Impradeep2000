@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.row{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.row1{
+	width:100px;
+	height:100px;
+	background-color:#ff0000;
+}
+.row2{
+	width:100px;
+	height:100px;
+	background-color:#0000ff;
+}
